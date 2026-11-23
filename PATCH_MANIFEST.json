@@ -1,5 +1,5 @@
 {
-  "archive": "阿瓦登 2：腐化之地_子非鱼汉化1.1.zip",
+  "archive": "阿瓦登 2：腐化之地_子非鱼汉化1.2.zip",
   "created": "2026-11-23",
   "files": [
     {
@@ -1618,13 +1618,13 @@
     },
     {
       "path": "汉化工具/patch.ps1",
-      "sha256": "51a1d26ee9f4f63318422ce39028b1d8ffcf0bb7c56272b4ba1d241de89c9a2a",
-      "size": 6949
+      "sha256": "cc2e5d74f26a082d1769035e69730e5d6ff0f86437e59077c444298133dfacfd",
+      "size": 8811
     },
     {
       "path": "汉化工具/config.json",
-      "sha256": "6621bfd2c311ca625ecdd5be94a5df9bf2ffe9e8808c3a86bc7c24c5acd69151",
-      "size": 39654
+      "sha256": "ca261cd6002b5f133aeb6a8d05ab37e0cde8bddd3cdc4c8ecba068755f43a36d",
+      "size": 39719
     }
   ],
   "install_mode": "script"
