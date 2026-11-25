@@ -1,0 +1,44 @@
+{
+  "exe_sha256": "893d26e896c58d6208eac56275cf961d87b48eb91ad891c5815a5485f2decfa1",
+  "provider": {
+    "id": "ghidra",
+    "name": "Ghidra",
+    "version": "12.1.4"
+  },
+  "classification": "save_path_format",
+  "decompile_evidence": "ev_a3c039c2f520bed14948b86ce75787920ebadf1543e97e411d86880de2685a45",
+  "occurrences": [
+    {
+      "ordinal": 17879,
+      "address": "0x5ca234",
+      "source": "%sSave%ditems",
+      "reference": "0x430e1d",
+      "procedure": "0x430350",
+      "xref_evidence": "ev_fd8b32abe6a4cdd8190b8c0b1375df78847f78c659a0b6ed29a790ceff83dcf4"
+    },
+    {
+      "ordinal": 17881,
+      "address": "0x5ca26c",
+      "source": "%sSave%dheader",
+      "reference": "0x431164",
+      "procedure": "0x4310c0",
+      "xref_evidence": "ev_14bdc0deb0249d18d95cc0d28d64c4d803f77bae9caa9ef6fc89c153004dc3b5"
+    },
+    {
+      "ordinal": 17884,
+      "address": "0x5ca304",
+      "source": "%s%sSpiderweb Software%sAvadon 2 Saved Games%sSave%d%sjournal",
+      "reference": "0x430eef",
+      "procedure": "0x430350",
+      "xref_evidence": "ev_d93ca7e5986ae7df6956c50622383418522d22fd035f521bf5bde08db36121a8"
+    },
+    {
+      "ordinal": 17885,
+      "address": "0x5ca344",
+      "source": "%s%sSpiderweb Software%sAvadon 2 Saved Games%sSave%d%sheader",
+      "reference": "0x431141",
+      "procedure": "0x4310c0",
+      "xref_evidence": "ev_b32f83c46ac9b783ef1f49a6d6ae8899f2f51c7f400c0c3fbf5122fffe7e3517"
+    }
+  ]
+}

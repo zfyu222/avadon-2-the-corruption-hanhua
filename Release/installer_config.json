@@ -1,0 +1,1035 @@
+{
+  "exe": "Avadon 2.exe",
+  "exe_sha256": "893d26e896c58d6208eac56275cf961d87b48eb91ad891c5815a5485f2decfa1",
+  "steam_app_id": "233310",
+  "originals": [
+    {
+      "path": "Avadon 2 Files/Av2ScenData.dat",
+      "sha256": "a2889e1578de4902da773f85ec1ea27b8caadce88c6879f461c9952ec0a98845"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/av2floorster.txt",
+      "sha256": "b0fb994b4fa1f8a0e2ba284a63cb8ce32d79908018774b3cafbb3e213b849fe5"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/av2itemschars.txt",
+      "sha256": "fca51a7df032440af6f6198899eeb2cec89c22cc432d65e6f9b3f03ed9b35cb7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/av2objsmisc.txt",
+      "sha256": "bba782d5fc98f7b5b52f3d206d21ccf4bf664b3b155b0f2bc7f5e3f59c4f1845"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/basin.txt",
+      "sha256": "6536e6f5f6aebe8e504c08b9c7204ed99368859949703ddeb0ca69bb332d5096"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/flaglever.txt",
+      "sha256": "fa660dbbba45500d8df1e6a5b4567cfa6686bf34a39b0ed22bed384fdc047fac"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/floortrap.txt",
+      "sha256": "4fd10eb14c4cd75b7b7a245b1e23aa66a88a4050529521e79a8f11c2731421de"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/gate.txt",
+      "sha256": "7b5d6192f4d77b66236b52d1589294195c158c732b1e3d5272227888dbd3cc75"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/leavezone.txt",
+      "sha256": "31820996ca01085f5f5bea5c0d7481c2b45d81c3f2af410504cdca47511b98ec"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/lockbox.txt",
+      "sha256": "25239caea00988dabc668b448b900d2a412b1f1778f631fe0fe5f0269a8215a9"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobarcher.txt",
+      "sha256": "fac99034bae8315e9943573323bc6cf6335f46e14b22a74ce3677d179b2b2ec4"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobbasic.txt",
+      "sha256": "d8af14ea5ffe1bc5e0540275d1f77b6d38e7424ebc698092fccd23fa05485492"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobboss.txt",
+      "sha256": "9176570fff907a1dee64d9a008c439392b3093ab6007a26e9a303bd366d3e877"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobcaller.txt",
+      "sha256": "80a7198853370461fe1067dae8ac236a2319401688be1dc8b85c8d7de3029df0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobflagshift.txt",
+      "sha256": "071f23506f249718245b44f6c1276f5b49f4088c0c1cec4101f0bf12ff36ebaa"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobfleeonce.txt",
+      "sha256": "95bb85ac8962184cb6227786be55965b496522d6582bbb016cb3f2e5d92a3f78"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobflock.txt",
+      "sha256": "f3995ddef72832bff159f091c12290ec234942761d7bdf64d9b3c146e650cd26"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobforcetk.txt",
+      "sha256": "711d3300b5a639420d74139c8035053b75b787d480af54d7bd0d0e59f4600edc"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobfrenzy.txt",
+      "sha256": "787569937bfef86568fc94146dad2167c157bf60af97c5e1ee11f10b227878e1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobfrozen.txt",
+      "sha256": "dfdb4f8b638046e623bc0ea5cb63e4a4581b2de8c8261d9ef08b4642ac03652f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobgphunt.txt",
+      "sha256": "e59ad3488bb2029bd53defe771036460a103f590266af6f5b85b5dcbbc3da432"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobgroup.txt",
+      "sha256": "4b98866f8642cfd81c5e961b421a459b46938c8612cd81d222cf01f65da38221"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobgroupgd.txt",
+      "sha256": "e8d1f23cc6c2728eed3831ba59dbe1a30769ce1b655c810ddd060ee230005b55"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobguard.txt",
+      "sha256": "f89f957b939a0d4c59679b21f280ae2f97f0e0c782b6d99b00692cd15ff69540"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobhunter.txt",
+      "sha256": "557ffd387afa78ac9e9d44de50b75904573fc94c35bc566463f2c4f2a32175f2"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobleadpc.txt",
+      "sha256": "76fff8883a437173ce349d960b6e420752c6a1fdfa0a30406e99c64a30fffbbe"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobmine.txt",
+      "sha256": "db1e0fa4f24d91cd5980e0fc7f7c440b85572a536c481d41dcdd06f26c4e0cba"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobnavpt.txt",
+      "sha256": "e0be1b19b2af040dffedcb33e18f502ab7475e59b2b515e7d13a0408933c967a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobnull.txt",
+      "sha256": "0718c1a2f6a2c6a0b641d0a1ac1f4a61167c12861c4ee0c9aab27bc2609a980a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobpackhunt.txt",
+      "sha256": "73f59adad5b52689a82d1e2b0a549fb5d74e23907c2128efb839af07a26caf97"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobpatrol.txt",
+      "sha256": "ba597befc2e2d0f2f97e49d635c395aecba3189465b5389be36d06536a1bc256"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobpet.txt",
+      "sha256": "9f2241f9f09c7a3ee2c9fa012a603356b05c9c9e8fd8fb3f8c297b4fe0d41918"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobshiftgd.txt",
+      "sha256": "c664e3aafde1d15c2b9ff7f7de75ba3414fd743895c706e3b6fdfb68082075e5"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobspawner.txt",
+      "sha256": "b432f946f22571bef742a3213f77577827e3804d31ba45f036ecf0745bbae688"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobsplitter.txt",
+      "sha256": "4bd819c8601af834a8c251039702de45e1745a160143073ee8d2065fa58f59d7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobturret.txt",
+      "sha256": "ef047360c7450ae330cfd4a2f7b8fdf39e123a885a73a4827432c343359e413c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobtwopts.txt",
+      "sha256": "14352e10de1cdc06bbd73743f06af7ec4434d015ee1d98981fdd201442a50af4"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/mobwimpygp.txt",
+      "sha256": "d606b40bb9ba293625ff62352d10c7c393d9f249a425531d8e86729f875aac17"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/nullobj.txt",
+      "sha256": "254f963b544e62f4410c4e49681e4ea21a299ef0777f3ee38c2ab949b121360c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/secdoor.txt",
+      "sha256": "fe4c3cd70b5868485de07a04956c3db66e3b0b4e0b43a0ca1d7e4e54ca64efd8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/sparkleobj.txt",
+      "sha256": "0509cf5ebe29032bbcd063f4bf025c32b5b79333c8c9e965a15deb7f6338a3e0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/swingdoor.txt",
+      "sha256": "d888fe6e76d802c82e15e142589f954dd1d70d7459d3354efc9d9a71037dfcb7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/talkobj.txt",
+      "sha256": "0c43e8a02352b6a09dbd5aeece25dc4ab986886b13d41cbf2b978449555a9a40"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textcheevos.txt",
+      "sha256": "6ba28c658aa4f32522ca529e89de3f57d903cc277654344e97c3b613d260adf0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textcodex.txt",
+      "sha256": "94ccb7ef096e221e94869500aa41ff2df284414150c53a4ab6bc5c74ab8b12fa"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textdialogs.txt",
+      "sha256": "ac463b893f0fc747c03ceefce28b48d31ca682e7bd07c41917ab69474ffaae55"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textdocs.txt",
+      "sha256": "5c9c823333dc462cec9632490b032451a276d420b1c14972850092bbbd23fc27"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textfullskills.txt",
+      "sha256": "6046b55e0af6b77f79ea79ee153ee9882b03821024210f47c6b7ee9d2f37bfe6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/texthints.txt",
+      "sha256": "2d46c3c0389b16bef920235f1037f8f63ebf207a0a22b19f0d60135c631c12c1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textplot.txt",
+      "sha256": "6af9aecb4956f4b46cb0ad59c72a42b4b42f6e121e9991100d448171d2be52e6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textquests.txt",
+      "sha256": "0f30d4667b78b871d568b8bbfe2ba4bc649373eb021ae624209c9d91cc8dadd6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textskills.txt",
+      "sha256": "189f8de26e802d2bcaabd712fd102d163a0f53e4f6dc08797d9143fe6fa12f39"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textspecitems.txt",
+      "sha256": "a5d2fc8641b2a03bd76e87cf373fcb801fd53c3ed4495e068e33c8dfdca5c14e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/textstatus.txt",
+      "sha256": "e4af0b74b1e9f98906c50d1a98c4cada3d500029e25ece9ab5e4e92bff020b45"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/trapbox.txt",
+      "sha256": "fd5ac12e68f1255c4e6555393692fb87ce015074dc11e4290a503bdfab56ce73"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/walllever.txt",
+      "sha256": "bcecbe597fe236941f70da66a8c1719a359fcf8a4109e5830dcc8a5abc939b12"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/wheel.txt",
+      "sha256": "9cb57a4aab87351456066a631b08d16410c780860ac53e9417858aed3d49af3e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z0avadon.txt",
+      "sha256": "343647d992ccb18aeed4968b2834e79497b8de703612927b86387b1d3617c092"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z0avadondlg.txt",
+      "sha256": "d0270193f2652450267972606cad13fc64b164f406a8cb38ca8c84e5ae0cc5d4"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z0infernal.txt",
+      "sha256": "47ed03dbadd7b5c3f766930610eb75c2d568d974febbaa3149e6362e15397607"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z0nexus.txt",
+      "sha256": "620b1046d45145ceaf4678ea77e97482c2378fa28f384f129ac6a7096eb3759c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10caravan.txt",
+      "sha256": "0050a7964c21d523737930ab6301625684624a3e1abd6ee0a8d549c17a43eea6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10karim.txt",
+      "sha256": "36ff6672124827fa0093da958cea9dff23b3df501270a7c0acceff1aa2d8dfd3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10monbasec.txt",
+      "sha256": "fa5799877032e0a921811003c07ad66a228d3b1b0fe97a6819d55b323aa90689"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10monbasecdlg.txt",
+      "sha256": "83c55af17b0d9880f412f33c101a37717d010875712b93edbe5113f03f7ab010"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10spikeguy.txt",
+      "sha256": "2c30994742d68ab8ac06c0653528994c8e646a008d2d48d1cd9ce8578329bc6e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10stalk.txt",
+      "sha256": "2bb3e03eda3013433e54195f4fdc05121fdf0e4842dd1de1697afe4c3eb5596f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10stalker.txt",
+      "sha256": "8807866917c10a33b8b98ba0f4fd4eba48ae15633e0d26ab385b5dc288340107"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10swarm1.txt",
+      "sha256": "7d4ca53112d7fb179dbb053511421c5f9768fa872b1d33823d89bcb88f99dcf7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z10swarm2.txt",
+      "sha256": "b6cb7fe614368bacfcc547286f02ca6b8f23695b6405389cd2b1872ff2016ce8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11border.txt",
+      "sha256": "72046df450e27bb2e93d21c00e1f646543bdf1fc1d8335563ed44b69a2cc5c8a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11borderdlg.txt",
+      "sha256": "f6cc0e65d79392ebd1ade70e8777b217cacf517fde80e001df3c6103f96340e0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11dymas1.txt",
+      "sha256": "2705e0caa161c40d9f2455efaa1a9b7be74ce3636fea5f4daad43a213d02df11"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11dymas2.txt",
+      "sha256": "994cdc94b86524d8f43d72a697fcb955f8387d6ba2f31a9f97678bf31c0e22ee"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11golem.txt",
+      "sha256": "aa8147ec6f8178037ab01b61cd7c7f71836270bcd5b93b3ccdf0038434f27d76"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11shade.txt",
+      "sha256": "32691cba7315e571209274a7b167ea08332fa592460dbd9bc55732cfa69f65a6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11trans.txt",
+      "sha256": "3a11897246816885e2266fd3a569fd60a02464ed8381420ac9f6dcfb262a5c4e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z11zephyr.txt",
+      "sha256": "6c9b22778c3ee9aaaa8733925d0099482db603faecc0aac45328283ee2041f57"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12dymas.txt",
+      "sha256": "761dadf32de165628120fd353da58f08d49949c90245854fc471199dc716bd96"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12krymboss.txt",
+      "sha256": "c688d9a33bbbc2cb3952485185aaf7599720ea510c63d7c37d6ab9c1d3fdf861"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12mir1.txt",
+      "sha256": "a79971f0bce7ce9d787af270b68ff0315e56c919f458fe9b5533455cf975894d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12mir2.txt",
+      "sha256": "a8644241003e4072ce9f23788a59114e0d7ef874ea1381d8faa2ed43db2f9cb7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12monbased.txt",
+      "sha256": "a54e93b1c8fed97f09613dc2c06bb6a0cdc998dfe5823c9f8a6d88dcb67afbe4"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12monbaseddlg.txt",
+      "sha256": "e724b3c2a7fdc748d62fb0847fa1bac981450447e37159a573fd0bd02dd9114f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12titan.txt",
+      "sha256": "a3d60759a8d024a5ac8c2855508220fdd7bc31d5825728e738ca586830b0511f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z12zephyr.txt",
+      "sha256": "16a418afc39232846d71b3594e045a84a290e63031b0c967bf674ef204a36944"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13bones.txt",
+      "sha256": "0372857d1412d70fa4dc3cb6bab25f36a49168671de007e026bc657ad14b8dbd"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13bossbones.txt",
+      "sha256": "2321c2a05bcb8fc7b56e6012f1692e54de7366e6a1c5fe2a83a6c70a6ab1d6de"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13dharamite.txt",
+      "sha256": "44a9f8e4bd9ec6aa77d039212d6160d83552709df475b5843130511517ed574a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13ghublit.txt",
+      "sha256": "31ecf965461ca6214215f2ffece256fa2b21ea06036e90c7571321eab0fb2cff"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13golem.txt",
+      "sha256": "dc94b899a6875b82a033fb3c3a21c191ee854777fa4ffdde682e336a7f929758"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13infernal.txt",
+      "sha256": "cdc1f747112f096ef21beb543662d4106ab1c4572a2c3f3bebef37b32140fae2"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13miranda.txt",
+      "sha256": "da7970e274e779f58c431a72969b47b0832f5de00dc5279584c720864aefa785"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13miranda2.txt",
+      "sha256": "4e9dd4b752b93e1f7efd5e5942707865d8310398460aa62c715eeaf39c4e6cb8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13stagwat.txt",
+      "sha256": "60d037e426b81057e8b4852a126e4c074c5b832af53b78f411ab9359c35b87aa"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13stagwatdlg.txt",
+      "sha256": "fb5ca3b2821d09ddb30c093d16c3fa399437f9a57050a5320e9343538c39e805"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13vard.txt",
+      "sha256": "85e6f18cfd569ad6c24f2db0e98705d5b8e6981ff4f898d6e7d12510edfeacbc"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13vard2.txt",
+      "sha256": "2468fe08b8a5c5ac2744e3b2e070da67f30d52e0ae25fed67fb13da1cdfb52e6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13widow.txt",
+      "sha256": "efcedf5c408f76302257362515ffbee9848e361bb0328f4ffc9e1714077f86c6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z13zomb.txt",
+      "sha256": "57ca9941f4a445549c066ea5f13a405ad0b0dac79026ada15cbbcb1e54e7af61"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14burner.txt",
+      "sha256": "b382cdd85411ccb2f9f589319234584abe908df962fa91b46b652c6a93fb5f8d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14core.txt",
+      "sha256": "44484f277212074ccd6eac47b1b123b7ed3141d1139bde6982c2cb1651d0293e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14coredlg.txt",
+      "sha256": "daca86a97a1d561bdd6211d256b5eb0019b8ab8e2cdaccbe932a220b7629f6ef"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14ghost.txt",
+      "sha256": "a26192a255c436e433bd9bcb44d1952c9a1911a2d76511ff3120b0104f5461a3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14golem.txt",
+      "sha256": "4904d792033c232c7824f984632660d1b00633d9007397f99ef244e3c76d8c32"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14horror.txt",
+      "sha256": "06a023e469d334e140e5f45642a3a66facb38b8ff66c784704709c04e6bf5a64"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14miranda.txt",
+      "sha256": "e2dbcfbba7d3f4e39202d2accd352c15389015a245d17ce239df350e8888391d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14mirhorror.txt",
+      "sha256": "bd50ad01477cf821aab9de2c15fc0b73c29607238a7506e53c7bb21123ea2e73"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14mirpet.txt",
+      "sha256": "804d502f9be91f7f810fdb28e461b699561247420fe4ce489d94d204b9dfddee"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z14priest.txt",
+      "sha256": "3f01a6c08a5fc3774907018fd3acb619168d1d731b8e8cc5e6d20669e06adde1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15bossconst.txt",
+      "sha256": "9ab791ad870bb07aac8fe54d2097505093ea6f6c79dbf100590f44d89ac21e7a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15const.txt",
+      "sha256": "c5d2fc73d249a57362842bd8f44b8db04a976157b2d1ba61242ab332564ee81b"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15mineguy.txt",
+      "sha256": "83eb72e8ae857cec3e68ce7ef0931ef86e8d9cba2410a219cc5bfa42df5fa442"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15ninja.txt",
+      "sha256": "7dde67cd69376bba26b45556a704929c542bf4b3e0d3a13bf4d0eeac7a01aa52"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15tmage.txt",
+      "sha256": "9932a31e963729beeef3d7dfc666b8b0043def1a08826b779a6206d4ab0ade9f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15troezen.txt",
+      "sha256": "3b13533b71d7b8919839a644aa3a528e1a1f8169661e3d6769532e91bd61d038"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15troezendlg.txt",
+      "sha256": "7f167efd88963fe7a60d4955635ab5cb98d847ceb144344d8dde87a26ea83657"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z15xeno.txt",
+      "sha256": "8347c0ec1b69556b87861b28137329a4b4605a34365628868fbec3ad7d22ebee"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16chief.txt",
+      "sha256": "a223b232ca1a74524d78f3ecfb0796c4968bd921bf95bbe0c6e62af4f8caa601"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16foresight.txt",
+      "sha256": "a5dbe123d0b199aaf3c11753b30315f65b87d64a70bd6d7c45145126fcbc070c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16foresightdlg.txt",
+      "sha256": "3ba34bed437f6479a4f1b2eff08fd0d9ac4f314868102e9b37e674f74d5d5174"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16guy.txt",
+      "sha256": "8708ec8089ab536c341e8d650d57fb32ea2ca42da5f87ffc1a51b81a881ef0da"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16raider.txt",
+      "sha256": "46583b40ae346a6f0d485cad7a7317991fc0f606901fbc3acb6f5122fe803ba1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16rb.txt",
+      "sha256": "5682f6634a8155802f443599083d0e31eae8253dc8aff930c0c8a703219dc260"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z16rbguy.txt",
+      "sha256": "1e8e69df25457d562ffdb472dc06d3b66c36f4c2cd9df84a202c4faf0abaf04c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17endguy.txt",
+      "sha256": "ec4faf457cf1ee3660d98b2bf05309a208a54171d5df00831fcf6e33dbd64c4e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17serdica.txt",
+      "sha256": "454b006d5533a9ff246334442d62d5c39698dc1949cc2400ad0be24f125c3a33"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17serdicadlg.txt",
+      "sha256": "43b76cd18deb9ce35e16d8112ec591b01b4b19a8aa502d74b6b46f3cbaeac441"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17temppest.txt",
+      "sha256": "3e3b98a6e8e6aa79911d6380fa41e4a742cd69ab9754166e87244771ccbeb0f8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17tizorus.txt",
+      "sha256": "efd71ed7c0fd676c119a4c8144f01651a4b1fdb1c8263d18d46a18cecdc94bc1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17ulixes.txt",
+      "sha256": "20d89b60b877ee7abc510d7a259480a275428bca85e021d4faa402e571774887"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z17varro.txt",
+      "sha256": "b27bb26005e3b8d101ee663616ec140e50d1bdddb4f7855ee10da1d83ac09e62"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18avguy.txt",
+      "sha256": "5d9908b58530c0a17c928ed45b20377ec2ebe9db5034f3ddd7b24cfaed2c44fb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18basilisk.txt",
+      "sha256": "2cf8aba4650f3db24a5b51293c223aa71f6e2fa8d531e773a4611180ac174bce"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18bat.txt",
+      "sha256": "587455c180048efb42ae6b76e954161ef9b34cc4679c41b732172155e46b179c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18brig1.txt",
+      "sha256": "821162ab9491414fab8127fb7e25754d55ec46cf257f5b43a3ce1aa186fd6717"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18nolus.txt",
+      "sha256": "7a8cae0c5c14666b30bb5576c8667c0654742f7c363a27839064d57eb511dd0d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18questus.txt",
+      "sha256": "4dc6fe44bd86eba06424309139e2c1d51d4882eab75ff674de06b1d2fd3046b3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18summon.txt",
+      "sha256": "3c2de335089785e60dc6fee2c9588ff87f281f401d3d930b34c1c5d25a4f8c2a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18temnolus.txt",
+      "sha256": "7a754fb6943b046a7981b890436a6a94b6fb4ebad27b559dc3bffe1b83756995"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18temnolusdlg.txt",
+      "sha256": "c4049d9a73e09a3b5e9594ddfc56f2593d525f8b797a81f1e0f9b931b996f812"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18turret.txt",
+      "sha256": "ef32ada32a4c0e4e6287e87e28c3070f23bf5f5b9f78f22532e2b403eefdd05f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18varro.txt",
+      "sha256": "b85676a448536d180d98e06432d91e95039e4225f7802d51c2743003c5c3667a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z18yasuo.txt",
+      "sha256": "80a941ade5b916a87ff67f611fb357f44615b0f56f999c2d237213507aeda229"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19alain.txt",
+      "sha256": "e4a38ef79ab8c59e0fa0ee4c234b5bb9c0a49d7e9e474c157e2a0fa61313c9df"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19cnaeus1.txt",
+      "sha256": "016a8ee6292e4116372c7afa1a8a98ffbcb2215a3728d9df807da51ec891aca6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19ghost.txt",
+      "sha256": "af6e3055335300b8b76c893b2a734fb18ef96d8169be8c83e57dbb447a040ec8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19god1.txt",
+      "sha256": "598e6cc1df0a2b39a3376eb861af6008b85dcc614ae2863692c3f1fcdbc5e0f7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19golem.txt",
+      "sha256": "7bde9b0ebd448e711e1ac65288d38bf1e166954fb7f0e74f46d6455c7544307c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19prighost.txt",
+      "sha256": "9bedc5a37db9efb425a45b04386f7adbc242e1395f5abcb56c1310669e7b5a7d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19spider.txt",
+      "sha256": "8d0e09e8f5f88134c5e8fc675c28e79d851ed2a98ee717e5adf9b8097259bdd9"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19statue.txt",
+      "sha256": "1b526802dac37200ce66e60241a67595fa9385571c42df15b13c1ba792d68662"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19temaetius.txt",
+      "sha256": "069d16661aaae7a362d3da9f81de2a31ec148000435ce6d68583b7fa4c4b990b"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z19temaetiusdlg.txt",
+      "sha256": "6edf3db8b7d7673e16243513ba59dcb4237584e874295780d044ea5a18eb9331"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1chabon1.txt",
+      "sha256": "0cc29f80e15be646954b352ffe0a4f12fa2cb4ef8c38983b14ce649efc5b7016"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1chabon2.txt",
+      "sha256": "ba450b24398d13f1857f43e272c9a8ab1f0fe317137007fbff6511f8697f7cfb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1chabon3.txt",
+      "sha256": "fb6b688a34b6ea34c3e289970d1afc71c249b4cfaa5ef87896a603ac04df8b93"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1dungeon.txt",
+      "sha256": "06dddc51279795a514fe5c4e764b28f99d306731701b29ac595aa74cfc3ad2a8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1dungeondlg.txt",
+      "sha256": "ef0a00a8324238bc75d48ab136d786a9bd553a853239919faf2395ad881d4c98"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1imp.txt",
+      "sha256": "f7c44dd45b682825fb2292a28abf9a4c665aa82b6ccdf1ade7228bc97c859c78"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1inter.txt",
+      "sha256": "ce9bdc7eb019fdb23ed8109d5c3041f3bd8221048d68fbab70d8e04032aed32d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1redbeard.txt",
+      "sha256": "424b2644bb62c01d5b438327cb0b2ad7e25c13caec6c54dbaf76f399566587ce"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z1turret.txt",
+      "sha256": "550a401c457f207b23c74458dbf78af025c2d5f617b6f3e9be556f9cb9fe710a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20gryfyn.txt",
+      "sha256": "12f9d928e51e23af14038662cc7374c75d524942361652e81192ca14e73f3f4c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20hadya.txt",
+      "sha256": "3d3dc1cd1ff055a72b9810e74b645c3ad5d081d6db0dab931193314561321082"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20infernal.txt",
+      "sha256": "32feaaeb0d67f98cf9107c6b2e1356512b51d45808c2093135b6ec262ca93988"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20questus.txt",
+      "sha256": "c1f69d5fb57bfe24e97c6d4786e1dfa74de2c4a842d9ca137021b8cf4671e38e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20rockfall.txt",
+      "sha256": "5356b713db075cfe15aeb376f8e18a84dbfef178ba12a941161f3471a151478e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20rockfalldlg.txt",
+      "sha256": "80c82431834c21d0405701b1eb502c22896b9f1a4f54d3ded0e789f147dd182c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20sentinel1.txt",
+      "sha256": "8268c906eae56482bdaa8951dee4afb0af89e3db5519149f5a4682ad528100db"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20sentinel2.txt",
+      "sha256": "cc841a1ba5bd4d388f000db511a92904fd83a7c9bcdce88b697fbbbfe1863df1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20valera.txt",
+      "sha256": "6b8f5b81b64a141695e265d8ac7abeac63e2626191939ba7a531561902062e64"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z20valera2.txt",
+      "sha256": "b101663a7be7e57147253f7eabe942bac5480c08622a52af1520f4c4f4dccae0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z2golem.txt",
+      "sha256": "6ccf959fb5e576139122b674fa33088279c98e182c5d37654862879350860e54"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z2redtower.txt",
+      "sha256": "5b8ac9a44ec3a4fa34acdc439fe074a4b9b0db3cc780e423bcdfb0fca4e1857d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z2redtowerdlg.txt",
+      "sha256": "bdb9fc57160abc0165406917a7f11bdb0b7e55933339f90cdfcaae1f8d182a48"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3door.txt",
+      "sha256": "1201fad67d9beaaa8bc5157b446cf4fb34d062ff8f69ec2033a30423f867d3bb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3gamal.txt",
+      "sha256": "b42cff45be39fd389fefcfe0e30b0a72474ea967333065ff339b44d3d04adaa0"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3guide.txt",
+      "sha256": "5ef0d0aaef65a306719a0c71a82e470de6201549fe4af6b79fee973141ab76de"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3ogre.txt",
+      "sha256": "24356728cab222ad5b032f3146cd6b890b6362cee5f693590dcb98f58d95d6ee"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3pris.txt",
+      "sha256": "14632ab1fc0df0d7e50503e0aac9c7a689f633e1b886ce8ffaab638c3f0c961d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3ravwoods.txt",
+      "sha256": "391b019d6179091efa4e55835628c8963bb3e4768ef3c2011e3d83dd32d6cbc2"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3ravwoodsdlg.txt",
+      "sha256": "7fd0b59863128fa5d76b9f56c88f1c9a6eb0aeb837651c74916d36433306bbfa"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z3vlotmos.txt",
+      "sha256": "092f6d9f2584613078968b00b6ecbc3e68b25575b287c96a8c51e0bc002154cb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4ghoul.txt",
+      "sha256": "9b065e3eb211187c96a4a6b6de7577d4f3dacb1c7cff4aa78d16473a8078ca32"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4khalida.txt",
+      "sha256": "8408618cf9bb39b021c24e576bcd3e528e3db31092b35ad5d78672ea278c6ce6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4raider.txt",
+      "sha256": "bb63a0c051e34c3af9840522899516a27455005c2631bb9dfc78b62856ee252b"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4rockkeep.txt",
+      "sha256": "be4c8b4030eadb14333d72359c0c89f92cf9f664fe1de553e65c0621d9022407"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4rockkeepdlg.txt",
+      "sha256": "ccc1222fb928694410853854d54e8fd0a236f9fc476b7dad746ab4f219c316f8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z4widow.txt",
+      "sha256": "a7302db3741c7f7a3e2c3b1aa38f19b18b8ffe4bc9ce814d7372493314513f7a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5aslak.txt",
+      "sha256": "c09fb8496b3f84cfde6dd28c6ba7dfbd0167bc32b860e73f38c227478530956c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5companion.txt",
+      "sha256": "decbe790c11238966ff519c597ff34f75bd8b622086c5296cbe72dd98972b9d9"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5ghost.txt",
+      "sha256": "918198902de22a8dae851c66003808187dc37f80a8ae9619de1c801a442a9ede"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5hunter.txt",
+      "sha256": "f0f7765f7e147d584e5cc637b1c84412f0f92f2cc4ab3bceb34787fe599729ef"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5nimah.txt",
+      "sha256": "e42f13d06dc23afa81ef8174c9cb5a2e1952bebbc81be9bdc42b681005992177"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5ogre.txt",
+      "sha256": "4c33664a34557551df63431bdbf8e8a70a0b2fdf1a7d55dda82352bb8974cc3a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5riverland.txt",
+      "sha256": "ecb746bc8d2abd5a4db466e7809dfc5117aaf843480935aaa34906edbe408186"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5riverlanddlg.txt",
+      "sha256": "0ae8ff16a452a3663c7622eccd8817b7e8e569873d25834a0dc1518bcff47c0a"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5senicha1.txt",
+      "sha256": "3a04c92b853f9b2aad5dbe974844e3a7ab5ac24b57c63db1d5844ce648aff940"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5senicha2.txt",
+      "sha256": "8acdf5483e1cd0be860d9568b2510e56940dc1a5594269d332c51003c98c5b0c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5senicha3.txt",
+      "sha256": "8e44072e7c7c0bcdfb0248cd3f9a8ce403582f688078d353b8d9cf6ca10acad6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z5shade.txt",
+      "sha256": "3d84974b2a421d40537d2aaba88a90bb3a91be0d66611722193fa41ae123a39e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6chief.txt",
+      "sha256": "07964ebb04920c0a6ef2e7fa6c2b8b9616cf5a8e96cdd1b94f53e29fdbbdf145"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6ghorus.txt",
+      "sha256": "76d655efd4befa53ab0cf23494fb94925e63f51ddd1c43480b1992894803a93e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6golem.txt",
+      "sha256": "92e9c02fdbe620d052abbd87c6518fa24ce88d3f1b289474f59ede5bab36ea5e"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6hermit.txt",
+      "sha256": "08af1751c90c278370e6df9949165bdf63c0c7c1007b131bc0fbe966d1917ba3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6khremess.txt",
+      "sha256": "75a8f71512eb8efbb5330af91b8e2418b92ceec8bb1a7d8e57c1d15bd758cd92"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6sulla.txt",
+      "sha256": "d129bf98e3d3d26206720612bd7205f51dc3651f71c567f26e79b0204909ed2b"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6traplair.txt",
+      "sha256": "446ec2e0b0f5f1ef2713fbe66191eec726ce4df1b81ff05b6e95efa00eeb3374"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z6traplairdlg.txt",
+      "sha256": "47e2fd7cc45683e330372cf8ae4be5bd205f837805ab1aff3f824870e3839dc3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7blackwood.txt",
+      "sha256": "b94130d54ade47713ee83d4e22e9080a2bf49e06dfb6088ad8d4bef7607761c8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7blackwooddlg.txt",
+      "sha256": "57a3ddec8d50e0fdcf5a4933c4293c22f1d5c2aed5460506588688dae8ee9318"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7karim.txt",
+      "sha256": "bedc223aad9f83c7f3905591066cba2b833a951342763ffef4f24d3e6422b05b"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7opaline.txt",
+      "sha256": "bd32b6dfe621e0188285a5eeda71d84e8623b21aa8b06e7d82ed3c2c2203fdd6"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7rebel.txt",
+      "sha256": "42fdac839ce4181f48c411b8cb2fca5a45f048a2ba91521f4e3615e5492bc8e8"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7shaman.txt",
+      "sha256": "3fab9484571adbbc0c008b2fe23dc4c7296034704fbf76609b958ec24e04d576"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z7stalker.txt",
+      "sha256": "ccf3fe2928fe2a9d6b87448c2a994e94a3bb1aa3b174b2487050004b40f44b08"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8alch.txt",
+      "sha256": "90329fd34d80816031aff53b4c33c71bb8bba662ac611a9c80541685533013bc"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8boss.txt",
+      "sha256": "d8897cf55c05972911b9ea09909034d7f8b5367046bbd4427b6a82cbe2c960bb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8bossflee.txt",
+      "sha256": "94a5a2188635ae28e3bd7e4dd21eff2f40e4c4503d5e0e0f290a78e6cb4c8a1f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8guide1.txt",
+      "sha256": "9c6b6f5b845df65f6720247f600ca40275295dcf36da9a6beef48c929fd8e9cf"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8kennel.txt",
+      "sha256": "891e80c358f36a53c53c610e83dfc8d89422b5cec5f796dd9efabb0ff98227ed"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8ogrethic.txt",
+      "sha256": "90b1e565701a12de245ed607e185b50d2ef2cf811799d829216eb76de6c2aa03"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8ogrethicdlg.txt",
+      "sha256": "47e2009280d0f67fd62aaf4fb1e821d7f56ac5744547f81a5eb7fffb43c1bfe7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8plantguy.txt",
+      "sha256": "aa717d3037125b76e6ba90b6f691c9c7982bb02c919a3ebe13f7816e1d46243d"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8scout2.txt",
+      "sha256": "0fd280a401f68d3bc8b81ffdd4448fa1084482e4aa7cc4660793ec5af52383bd"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8titan.txt",
+      "sha256": "60dbe1b90ffc708adb8b5b5bc12dc3c1cbb285600861421ef16f141c0e479d39"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8wolfshade.txt",
+      "sha256": "272607c014f15a89e0e2c3810e3e7b87c6d72ec3c6be40a435f1144ea067fce7"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z8zombie.txt",
+      "sha256": "0310bb60dbf7277224ca5e1fe088c821e53ef9e84854f29d41a02b9a4356d2f9"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9durma.txt",
+      "sha256": "99d17d55b3ef9ad1275b5f08b4272a25e1a6ef83d03782fc9e7e5ddc23b69543"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9konst.txt",
+      "sha256": "44901a986886d3f6da5606ee011fc87d0214a7021a46eb7a2d0329d411391540"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9michon.txt",
+      "sha256": "cdb4e82234589a5f2c71b5500dd6d9fa1aef1850e2557169018db7c0ce997cf1"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9odil.txt",
+      "sha256": "c3f9102733db99bd78728e0f3a99c4102ace37428431880261737d9726d0bbbb"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9rebel.txt",
+      "sha256": "360f375f6ae046179c6bba523963643f44ca473cd23776ea44a24d758f689f49"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9scout.txt",
+      "sha256": "79fd0fce47ef492291b581995b847e2df71edb2610ef590b80554b7b5661a244"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9scout1.txt",
+      "sha256": "972541ce5533cc38465d2efdd8f60e6937bebb373b11e531e91d3cf8256725f3"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9scout3.txt",
+      "sha256": "323a178c4e376e3ee886f5c3ee0ca135b45b41117eb7c06e43eceed788018837"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9shade.txt",
+      "sha256": "cf0335edf95d4dcb3c21e93acbf1802401345a9006ac4ec39a58470e87da181f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9threya.txt",
+      "sha256": "9aeb4ccc747a145fedd9f8b80fc5a7966590150d127efe73d559c89dff9efe5c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9titanland.txt",
+      "sha256": "56ceed958a4a93fc6888dd46c189115ece9f5afd9ce9b6ffc606644cf4367c1c"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9titanlanddlg.txt",
+      "sha256": "13d64cf1e9e891c01c5bd041aca778e8d6d65cfc0fc29c6d7d55bd6ef5cbea2f"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9troop1.txt",
+      "sha256": "94873451be638f8c27503ce9d4f103a2782946ea46efda26dd90dd4f2037e030"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/z9troop2.txt",
+      "sha256": "e226847d7937f8b256172f11735b76aa543f406fc69620380051e81aa58bc731"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/zonetemp.txt",
+      "sha256": "c3bee65735fc6c1b1858ca7ce2bb8aef920bfcb6060510e429c6ca14b545a877"
+    },
+    {
+      "path": "Avadon 2 Files/Scripts/zonetempdlg.txt",
+      "sha256": "3ba486740f65bfda3fa5459a1831a324a02d582fdfa73e769620999886fc1c52"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G128.png",
+      "sha256": "4157d736303aa5d9922c9eb4bd89ecef927b15fc8751842c5553799ec90c72b4"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G133.png",
+      "sha256": "bd809fed7e427f12f58a4b6deb87769c35b8e20ba010d6dbd50e69537811cd2d"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G153.png",
+      "sha256": "9dd80beeeb1baba3c354642070da9c47af54959cda30105780322fe7e4d05d9f"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G158.png",
+      "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G159.png",
+      "sha256": "2cc56008ad70ad99ff384b1796cde43afac6e5c5c70e0e524d1d930682c225d7"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G165.png",
+      "sha256": "4527ddc517c0eb31446ad837e7bde357eae122a59390d4b4dbb56ce5b6130e94"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G167.png",
+      "sha256": "3b8beb6130a6f5b259e48343126e4bca64c513ea59e778121d5e155e01fa9623"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G169.bmp",
+      "sha256": "1e8bbab2d3299b0d6f7dff0cf11175391f56146ffc19643204f7a384bfe0e569"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G189.png",
+      "sha256": "62351eba992caef31d857d7681b0dc50f692a51a287d8a08442b8883316626bf"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G203.png",
+      "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e"
+    },
+    {
+      "path": "Avadon 2 Files/Graphics Core/G220.png",
+      "sha256": "64e7705752ffd2421620d74c3ec7cf259f3c21e6845c018e5c984616209664b9"
+    }
+  ],
+  "legacy": [],
+  "preserve_on_retire": [
+    "Enhancement-Settings.exe"
+  ]
+}

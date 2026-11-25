@@ -1,0 +1,110 @@
+{
+  "script": "latin",
+  "calibration": {
+    "reviewer": "conversation_agent",
+    "sample_count": 111,
+    "evidence": "Core and sprite contact sheet viewed. Menu and title use decorative lettering. Stats and inventory have small UI labels. G176 is a labeled map. No ordinary font family validated. Reviewed the remaining Core contact sheets: G203 pause menu, G189/G220 tutorials, G177/G231-G233 maps. G198 is the developer logo and G290 appears to be a font atlas; inspect without treating glyph samples as prose."
+  },
+  "families": {},
+  "images": {
+    "Avadon 2 Files/Graphics Core/G129.jpg": {
+      "known_text": true,
+      "risks": [
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G153.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G158.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G159.png": {
+      "known_text": true,
+      "risks": [
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G165.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G169.bmp": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G176.jpg": {
+      "known_text": true,
+      "risks": [
+        "art",
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G128.png": {
+      "known_text": true,
+      "risks": [
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G177.jpg": {
+      "known_text": true,
+      "risks": [
+        "art",
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G189.png": {
+      "known_text": true,
+      "risks": [
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G198.png": {
+      "known_text": true,
+      "risks": [
+        "logo"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G203.png": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G220.png": {
+      "known_text": true,
+      "risks": [
+        "art",
+        "small_ui_labels"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G231.jpg": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G232.jpg": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    },
+    "Avadon 2 Files/Graphics Core/G233.jpg": {
+      "known_text": true,
+      "risks": [
+        "art"
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "translations": "../avadon-2_images_text_translated.csv",
+  "inputs": [
+    {
+      "patch": "draw-v1",
+      "qa": "qa-final-v1",
+      "ids": [
+        "47d86dba9a4f5c7d763ec6e933f8df5755b06d6d5de61caac3eb593c4dae0ab2",
+        "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+        "d558d2e2dfd76092830cbacd33b5da8e1eb5f4fa516a8b671238366f16fde3fa"
+      ]
+    },
+    {
+      "patch": "redraw-v1",
+      "qa": "qa-redraw-v1",
+      "ids": [
+        "432430317e348461f3825f8239a6b8f637808121d661a05fb6f399eca59f5662",
+        "55e48a967a65142ead13f9a5fb406fa7f6916a9c7e8765d499e953fb92ea4800",
+        "60897e49f7ffdf2706e5fb19c2fa8e7aa1a09c66f12b0b67b9eddbe71628a6ab"
+      ]
+    },
+    {
+      "patch": "draw-v2",
+      "qa": "qa-final-v2",
+      "ids": [
+        "45947a45b609612d37d38153febe57e83cff5b30e38fd2108ee829bf718cacf1",
+        "64fdb077ee6610cfe47811cf666d105fa83773825bb1851cc3577185053846f5",
+        "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+        "c5492e7440e3614c676a3a80c3259d1d46c537c5f55cccc62a72ea6b508f6959",
+        "d40bd2b0b7145a5856273257ba3d2e24e60fa882ef1890b1d734665ad4e57edd"
+      ]
+    },
+    {
+      "patch": "draw-v3",
+      "qa": "qa-final-v3",
+      "ids": [
+        "3ec06a5651eef259d7b4562155db30beb59b42c2847e49588b87d60527e37e49",
+        "678e35216f31a29feabe422678e679b2a4547d9685f656ae542477c741ae4ffa",
+        "a7762887fe94a353a9ea4b21e1f0515154fa9b52691979cd85082374ca02657e",
+        "be50e5ecce6b2e3a3937f2d3188d43648a487e63312faf6142226aef4434b9f3"
+      ]
+    },
+    {
+      "patch": "redraw-map",
+      "qa": "qa-redraw-map",
+      "ids": [
+        "ae17a2cece60700527b28bc89a0c2d188d79032c1857758b39a147707ee2dac1"
+      ]
+    },
+    {
+      "patch": "redraw-v4",
+      "qa": "qa-redraw-v4",
+      "ids": [
+        "d4c409c75eec16c09691a72433478df4e2885b1c1ad3911cdca1842885b63452"
+      ]
+    },
+    {
+      "patch": "draw-v5",
+      "qa": "qa-final-v5",
+      "ids": [
+        "aadb34a95745bf219b916748f373b8a1abd22ca77af300b9178d2fdd048deacb"
+      ]
+    },
+    {
+      "patch": "draw-v7",
+      "qa": "qa-final-v7",
+      "ids": [
+        "e207483d8eaaea7df9539e6356f853f48fda94c3a4d17dc0f0a06010e4ac4e33"
+      ]
+    }
+  ]
+}
