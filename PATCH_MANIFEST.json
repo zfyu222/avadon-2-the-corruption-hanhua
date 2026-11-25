@@ -1,6 +1,6 @@
 {
-  "archive": "阿瓦登 2：腐化之地_子非鱼汉化1.4.zip",
-  "created": "2026-11-24",
+  "archive": "阿瓦登 2：腐化之地_子非鱼汉化1.5.zip",
+  "created": "2026-11-25",
   "files": [
     {
       "path": "Avadon 2 Files/Av2ScenData.dat",
@@ -1481,8 +1481,8 @@
     {
       "path": "Avadon2Chinese/resources.bin",
       "archive_path": "汉化文件/Avadon2Chinese/resources.bin",
-      "sha256": "2815fb68be89ea80c3f75281e39709130bc70cba27b0c2da679626a3e04fbb35",
-      "size": 1872632
+      "sha256": "1ad276e7850d7dea5cfb4f0fb43d4611a87fd1a60533440b806e2c1acb5f8bd6",
+      "size": 1872676
     },
     {
       "path": "winmm.dll",
